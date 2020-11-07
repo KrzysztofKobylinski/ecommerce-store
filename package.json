@@ -1,6 +1,7 @@
 {
   "name": "ecommerce-project",
   "version": "0.1.0",
+  "proxy": "http://localhost:5000",
   "private": true,
   "dependencies": {
     "firebase": "6.0.2",
@@ -9,6 +10,7 @@
     "react-dom": "^16.8.6",
     "react-redux": "7.0.3",
     "react-router-dom": "5.0.0",
+    "react-stripe-checkout": "2.6.3",
     "redux": "4.0.1",
     "redux-logger": "3.0.6",
     "redux-persist": "5.10.0",
